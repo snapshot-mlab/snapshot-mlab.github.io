@@ -905,7 +905,7 @@ ol {
 
 .container-navbar {
   margin-right: 4vw;
-  margin-left: 1vw;
+  margin-left: 0.5vw;
 }
 
 /* Bread Crumbs */
@@ -1636,7 +1636,7 @@ ol {
 }
 
 .header .navbar-brand img {
-  width: 6vw;
+  width: 5vw;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
