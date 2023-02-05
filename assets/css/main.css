@@ -903,6 +903,11 @@ ol {
   justify-content: center;
 }
 
+.container-navbar {
+  margin-right: 4vw;
+  margin-left: 1vw;
+}
+
 /* Bread Crumbs */
 .breadcrumbs {
   position: relative;
@@ -1365,7 +1370,7 @@ ol {
   transform: translate(-50%, -50%);
 }
 
-.preloader-icon {
+/* .preloader-icon {
   width: 100px;
   height: 100px;
   display: inline-block;
@@ -1386,7 +1391,7 @@ ol {
 .preloader-icon span:last-child {
   animation-delay: -0.8s;
   -webkit-animation-delay: -0.8s;
-}
+} */
 
 @keyframes preloader-fx {
   0% {
